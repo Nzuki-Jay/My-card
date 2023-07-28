@@ -1,0 +1,32 @@
+body {
+    margin: 30px;
+    font-family:Geneva, Verdana, Tahoma, sans-serif;
+}
+
+.main {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    background: #ddebf8;
+    border-bottom: 5px solid #d8cefe;
+}
+
+.details {
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: center;
+    color: #2d2839;
+}
+
+.images {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.my-photo {
+    width: 200px;
+}
+
